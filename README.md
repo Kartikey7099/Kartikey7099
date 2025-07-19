@@ -1,26 +1,20 @@
 <h1 align="center">Hi There! 👋</h1>
-<h3 align="center">I'm Kartikey Sharma — an aspiring Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">I'm Kartikey Sharma — an aspiring Software Developer from India 🇮🇳</h3>
 
 ---
 
-🔭 I’m currently working on *Full Stack and Blockchain-based Projects*  
-🎬 I also have a side hustle in *Video Editing*  
-[🎥 Check out my edits here](#) <!-- Replace # with actual portfolio link -->
+🔭 I’m currently working on *Data Analysis and Machine learning Projects*  
 
 🌱 I’m learning: *Next.js, Foundry, Solidity, and Web3 Development*
 
 💬 Ask me about: *Backend, Frontend, Web3, Content Creation*, or anything [here](#) <!-- Replace with contact form, email, etc. -->
 
-⚡ Fun fact: I can edit a reel while debugging a smart contract 😄
-
 ---
 
 ### 📫 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikey7099)  
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kartikey7099)  
-[![Video Editing Portfolio](https://img.shields.io/badge/Video%20Editing-FF5722?style=for-the-badge)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikeysharmawork2222@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-sharma-313305251)  
 
 ---
 

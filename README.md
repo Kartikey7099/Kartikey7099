@@ -37,7 +37,8 @@
 
 ### 🐍 GitHub Contributions
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Kartikey7099/Kartikey7099/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/Kartikey7099/Kartikey7099/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Kartikey7099/Kartikey7099/output/snake.svg#gh-dark-mode-only)
 
 ---
 

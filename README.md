@@ -1,63 +1,80 @@
-<h1 align="center">Hi There! 👋</h1>
-<h3 align="center">I'm Kartikey Sharma — an aspiring Software Developer from India 🇮🇳</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sehgalaayu.sehgalaayu" />
 
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayu+Sehgal!" />
+</h1>
 
-🔭 I’m currently working on *Data Analysis and Machine learning Projects*  
+<h3 align="center">Aspiring full stack developer from India 🇮🇳</h3>
 
-🌱 I’m learning: *Next.js, Foundry, Solidity, and Web3 Development*
+<br/>
 
-💬 Ask me about: *Backend, Frontend, Web3, Content Creation*, or anything [here](#) <!-- Replace with contact form, email, etc. -->
+<div align="center">
+ 
+ 🔭 I’m currently working on **Full stack and blockchain-based projects**
+ 
+ 🎬 I also have a side hustle in **video editing**  
+ ➡️ [Check out my edits here](https://sehgalaayu.wixsite.com/aayuedits)
 
----
+🌱 I’m currently learning **NextJs, Foundry, Solidity and full-stack development**
 
-### 📫 Connect With Me
+💬 Ask me about **Backend, frontend, web3, content creation, or anything [here](https://github.com/sehgalaayu/sehgalaayu/issues)**
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikeysharmawork2222@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-sharma-313305251)  
+⚡ Fun fact: **I can edit a reel while debugging a smart contract 😄**
 
----
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:sehgalaayu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/sehgalaayu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/sehgalaayu1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://sehgalaayu.wixsite.com/aayuedits" target="_blank">
+    <img src="https://img.shields.io/badge/Video%20Editing%20Portfolio-FF5722?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+  </a>
+</div>
 
-### 🛠 Languages, Frameworks & Tools
+<hr/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power BI-20232A?style=for-the-badge&logo=PowerBI&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-</p>
+<h2 align="center">⚒️ Languages – Frameworks – Tools ⚒️</h2>
+<br/>
+<div align="center">
 
----
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,typescript" />
 
-### 🐍 GitHub Contributions
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Kartikey7099/Kartikey7099/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Kartikey7099/Kartikey7099/output/snake.svg#gh-dark-mode-only)
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</div>
 
----
+<br/>
+<hr/>
 
-### ⚡ GitHub Stats
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sehgalaayu/sehgalaayu/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-| Stats | Top Languages |
-|-------|---------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Kartikey7099&show_icons=true&theme=radical) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey7099&layout=compact&theme=radical) |
+<hr/>
 
----
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sehgalaayu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=sehgalaayu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sehgalaayu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+</div>
 
-### 📊 GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kartikey7099&theme=react-dark)
-
----
-
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kartikey7099&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
-
----
+<br/><br/>
+<hr/>

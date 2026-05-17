@@ -42,13 +42,13 @@
 <div align="center">
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=python,java,sql,tensorflow,tableau" />
+  <img src="https://skillicons.dev/icons?i=python,java,matplotlib,tensorflow," />
 
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
   <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=docker,mongodb,aws" />
 </div>
 
 <br/>

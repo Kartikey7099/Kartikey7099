@@ -42,10 +42,10 @@
 <div align="center">
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=python,java,matplotlib,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,opencv" />
 
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=streamlit,flask,git,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=flask,git,kubernetes" />
 
   <!-- Database -->
   <img src="https://skillicons.dev/icons?i=docker,firebase,mongodb,aws,figma" />

@@ -42,7 +42,7 @@
 <div align="center">
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=python,java,numpy,powerbi,bootstrap,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,java,sql,tensorflow,tableau" />
 
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,express" />

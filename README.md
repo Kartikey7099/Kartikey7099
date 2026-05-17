@@ -1,40 +1,37 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sehgalaayu.sehgalaayu" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayu+Sehgal!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kartikey+Sharma!" />
 </h1>
 
-<h3 align="center">Aspiring full stack developer from India 🇮🇳</h3>
+<h3 align="center">Aspiring Data Scientist from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Full stack and blockchain-based projects**
+ 🔭 I’m currently working on **Data Science and Artificial Intellegence projects**
  
- 🎬 I also have a side hustle in **video editing**  
- ➡️ [Check out my edits here](https://sehgalaayu.wixsite.com/aayuedits)
+ 🎬 I also have a side hustle in **UI/UX Designing**  
+ 
 
-🌱 I’m currently learning **NextJs, Foundry, Solidity and full-stack development**
+🌱 I’m currently learning **GenAI, Deep Learning, Data Analytics, Machine Learning and System Design**
 
-💬 Ask me about **Backend, frontend, web3, content creation, or anything [here](https://github.com/sehgalaayu/sehgalaayu/issues)**
+💬 Ask me about **Data Science, Machine Learning, AI, DSA, or anything tech-related [here](https://github.com/Kartikey7099/Kartikey7099/issues)**
 
-⚡ Fun fact: **I can edit a reel while debugging a smart contract 😄**
+⚡ Fun fact: **I can train an ML model while solving DSA problems and building dashboards 😄**
 
 </div>
  
 <div align="center"> 
-  <a href="mailto:sehgalaayu@gmail.com">
+  <a href="mailto:kartikeysharmawork2222@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/sehgalaayu/" target="_blank">
+  <a href="https://www.linkedin.com/in/kartikey-sharma-313305251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/sehgalaayu1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://sehgalaayu.wixsite.com/aayuedits" target="_blank">
-    <img src="https://img.shields.io/badge/Video%20Editing%20Portfolio-FF5722?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
   </a>
 </div>
 
